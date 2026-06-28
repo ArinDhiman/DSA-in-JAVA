@@ -99,6 +99,7 @@ Happy Coding! 🚀
 ## Array
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/ArinDhiman/DSA-in-JAVA/tree/master/0088-merge-sorted-array) |
 | [2965-find-missing-and-repeated-values](https://github.com/ArinDhiman/DSA-in-JAVA/tree/master/2965-find-missing-and-repeated-values) |
 ## Hash Table
 |  |
@@ -112,4 +113,12 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [2965-find-missing-and-repeated-values](https://github.com/ArinDhiman/DSA-in-JAVA/tree/master/2965-find-missing-and-repeated-values) |
+## Two Pointers
+|  |
+| ------- |
+| [0088-merge-sorted-array](https://github.com/ArinDhiman/DSA-in-JAVA/tree/master/0088-merge-sorted-array) |
+## Sorting
+|  |
+| ------- |
+| [0088-merge-sorted-array](https://github.com/ArinDhiman/DSA-in-JAVA/tree/master/0088-merge-sorted-array) |
 <!---LeetCode Topics End-->
