@@ -102,6 +102,7 @@ Happy Coding! 🚀
 | [0088-merge-sorted-array](https://github.com/ArinDhiman/DSA-in-JAVA/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ArinDhiman/DSA-in-JAVA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/ArinDhiman/DSA-in-JAVA/tree/master/0136-single-number) |
+| [0283-move-zeroes](https://github.com/ArinDhiman/DSA-in-JAVA/tree/master/0283-move-zeroes) |
 | [2965-find-missing-and-repeated-values](https://github.com/ArinDhiman/DSA-in-JAVA/tree/master/2965-find-missing-and-repeated-values) |
 ## Hash Table
 |  |
@@ -119,6 +120,7 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/ArinDhiman/DSA-in-JAVA/tree/master/0088-merge-sorted-array) |
+| [0283-move-zeroes](https://github.com/ArinDhiman/DSA-in-JAVA/tree/master/0283-move-zeroes) |
 ## Sorting
 |  |
 | ------- |
