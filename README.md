@@ -107,6 +107,7 @@ Happy Coding! 🚀
 ## Hash Table
 |  |
 | ------- |
+| [0142-linked-list-cycle-ii](https://github.com/ArinDhiman/DSA-in-JAVA/tree/master/0142-linked-list-cycle-ii) |
 | [2965-find-missing-and-repeated-values](https://github.com/ArinDhiman/DSA-in-JAVA/tree/master/2965-find-missing-and-repeated-values) |
 ## Math
 |  |
@@ -120,6 +121,7 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/ArinDhiman/DSA-in-JAVA/tree/master/0088-merge-sorted-array) |
+| [0142-linked-list-cycle-ii](https://github.com/ArinDhiman/DSA-in-JAVA/tree/master/0142-linked-list-cycle-ii) |
 | [0283-move-zeroes](https://github.com/ArinDhiman/DSA-in-JAVA/tree/master/0283-move-zeroes) |
 | [0876-middle-of-the-linked-list](https://github.com/ArinDhiman/DSA-in-JAVA/tree/master/0876-middle-of-the-linked-list) |
 ## Sorting
@@ -175,6 +177,7 @@ Happy Coding! 🚀
 ## Linked List
 |  |
 | ------- |
+| [0142-linked-list-cycle-ii](https://github.com/ArinDhiman/DSA-in-JAVA/tree/master/0142-linked-list-cycle-ii) |
 | [0206-reverse-linked-list](https://github.com/ArinDhiman/DSA-in-JAVA/tree/master/0206-reverse-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/ArinDhiman/DSA-in-JAVA/tree/master/0876-middle-of-the-linked-list) |
 ## Recursion
