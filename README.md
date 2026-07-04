@@ -121,6 +121,7 @@ Happy Coding! 🚀
 | ------- |
 | [0088-merge-sorted-array](https://github.com/ArinDhiman/DSA-in-JAVA/tree/master/0088-merge-sorted-array) |
 | [0283-move-zeroes](https://github.com/ArinDhiman/DSA-in-JAVA/tree/master/0283-move-zeroes) |
+| [0876-middle-of-the-linked-list](https://github.com/ArinDhiman/DSA-in-JAVA/tree/master/0876-middle-of-the-linked-list) |
 ## Sorting
 |  |
 | ------- |
@@ -171,4 +172,8 @@ Happy Coding! 🚀
 | [0100-same-tree](https://github.com/ArinDhiman/DSA-in-JAVA/tree/master/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/ArinDhiman/DSA-in-JAVA/tree/master/0102-binary-tree-level-order-traversal) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/ArinDhiman/DSA-in-JAVA/tree/master/0111-minimum-depth-of-binary-tree) |
+## Linked List
+|  |
+| ------- |
+| [0876-middle-of-the-linked-list](https://github.com/ArinDhiman/DSA-in-JAVA/tree/master/0876-middle-of-the-linked-list) |
 <!---LeetCode Topics End-->
