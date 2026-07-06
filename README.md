@@ -120,6 +120,7 @@ Happy Coding! 🚀
 ## Two Pointers
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/ArinDhiman/DSA-in-JAVA/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0061-rotate-list](https://github.com/ArinDhiman/DSA-in-JAVA/tree/master/0061-rotate-list) |
 | [0088-merge-sorted-array](https://github.com/ArinDhiman/DSA-in-JAVA/tree/master/0088-merge-sorted-array) |
 | [0142-linked-list-cycle-ii](https://github.com/ArinDhiman/DSA-in-JAVA/tree/master/0142-linked-list-cycle-ii) |
@@ -180,6 +181,7 @@ Happy Coding! 🚀
 ## Linked List
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/ArinDhiman/DSA-in-JAVA/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/ArinDhiman/DSA-in-JAVA/tree/master/0021-merge-two-sorted-lists) |
 | [0025-reverse-nodes-in-k-group](https://github.com/ArinDhiman/DSA-in-JAVA/tree/master/0025-reverse-nodes-in-k-group) |
 | [0061-rotate-list](https://github.com/ArinDhiman/DSA-in-JAVA/tree/master/0061-rotate-list) |
