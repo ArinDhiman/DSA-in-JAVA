@@ -124,6 +124,7 @@ Happy Coding! 🚀
 | [0061-rotate-list](https://github.com/ArinDhiman/DSA-in-JAVA/tree/master/0061-rotate-list) |
 | [0088-merge-sorted-array](https://github.com/ArinDhiman/DSA-in-JAVA/tree/master/0088-merge-sorted-array) |
 | [0142-linked-list-cycle-ii](https://github.com/ArinDhiman/DSA-in-JAVA/tree/master/0142-linked-list-cycle-ii) |
+| [0151-reverse-words-in-a-string](https://github.com/ArinDhiman/DSA-in-JAVA/tree/master/0151-reverse-words-in-a-string) |
 | [0234-palindrome-linked-list](https://github.com/ArinDhiman/DSA-in-JAVA/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/ArinDhiman/DSA-in-JAVA/tree/master/0283-move-zeroes) |
 | [0876-middle-of-the-linked-list](https://github.com/ArinDhiman/DSA-in-JAVA/tree/master/0876-middle-of-the-linked-list) |
@@ -200,4 +201,8 @@ Happy Coding! 🚀
 | [0025-reverse-nodes-in-k-group](https://github.com/ArinDhiman/DSA-in-JAVA/tree/master/0025-reverse-nodes-in-k-group) |
 | [0206-reverse-linked-list](https://github.com/ArinDhiman/DSA-in-JAVA/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/ArinDhiman/DSA-in-JAVA/tree/master/0234-palindrome-linked-list) |
+## String
+|  |
+| ------- |
+| [0151-reverse-words-in-a-string](https://github.com/ArinDhiman/DSA-in-JAVA/tree/master/0151-reverse-words-in-a-string) |
 <!---LeetCode Topics End-->
