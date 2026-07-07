@@ -147,6 +147,7 @@ Happy Coding! 🚀
 | [0144-binary-tree-preorder-traversal](https://github.com/ArinDhiman/DSA-in-JAVA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/ArinDhiman/DSA-in-JAVA/tree/master/0145-binary-tree-postorder-traversal) |
 | [0234-palindrome-linked-list](https://github.com/ArinDhiman/DSA-in-JAVA/tree/master/0234-palindrome-linked-list) |
+| [1910-remove-all-occurrences-of-a-substring](https://github.com/ArinDhiman/DSA-in-JAVA/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Tree
 |  |
 | ------- |
@@ -205,4 +206,9 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/ArinDhiman/DSA-in-JAVA/tree/master/0151-reverse-words-in-a-string) |
+| [1910-remove-all-occurrences-of-a-substring](https://github.com/ArinDhiman/DSA-in-JAVA/tree/master/1910-remove-all-occurrences-of-a-substring) |
+## Simulation
+|  |
+| ------- |
+| [1910-remove-all-occurrences-of-a-substring](https://github.com/ArinDhiman/DSA-in-JAVA/tree/master/1910-remove-all-occurrences-of-a-substring) |
 <!---LeetCode Topics End-->
