@@ -20,6 +20,6 @@ class Solution {
         head.next=swapPairs(second.next);
         second.next=head;
         return second;
-
+        
     }
 }
