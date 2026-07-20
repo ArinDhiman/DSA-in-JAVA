@@ -136,6 +136,7 @@ Happy Coding! 🚀
 | [0160-intersection-of-two-linked-lists](https://github.com/ArinDhiman/DSA-in-JAVA/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/ArinDhiman/DSA-in-JAVA/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/ArinDhiman/DSA-in-JAVA/tree/master/0283-move-zeroes) |
+| [0844-backspace-string-compare](https://github.com/ArinDhiman/DSA-in-JAVA/tree/master/0844-backspace-string-compare) |
 | [0876-middle-of-the-linked-list](https://github.com/ArinDhiman/DSA-in-JAVA/tree/master/0876-middle-of-the-linked-list) |
 ## Sorting
 |  |
@@ -163,6 +164,7 @@ Happy Coding! 🚀
 | [0232-implement-queue-using-stacks](https://github.com/ArinDhiman/DSA-in-JAVA/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/ArinDhiman/DSA-in-JAVA/tree/master/0234-palindrome-linked-list) |
 | [0682-baseball-game](https://github.com/ArinDhiman/DSA-in-JAVA/tree/master/0682-baseball-game) |
+| [0844-backspace-string-compare](https://github.com/ArinDhiman/DSA-in-JAVA/tree/master/0844-backspace-string-compare) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/ArinDhiman/DSA-in-JAVA/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Tree
 |  |
@@ -227,11 +229,13 @@ Happy Coding! 🚀
 | [0020-valid-parentheses](https://github.com/ArinDhiman/DSA-in-JAVA/tree/master/0020-valid-parentheses) |
 | [0151-reverse-words-in-a-string](https://github.com/ArinDhiman/DSA-in-JAVA/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/ArinDhiman/DSA-in-JAVA/tree/master/0242-valid-anagram) |
+| [0844-backspace-string-compare](https://github.com/ArinDhiman/DSA-in-JAVA/tree/master/0844-backspace-string-compare) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/ArinDhiman/DSA-in-JAVA/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Simulation
 |  |
 | ------- |
 | [0682-baseball-game](https://github.com/ArinDhiman/DSA-in-JAVA/tree/master/0682-baseball-game) |
+| [0844-backspace-string-compare](https://github.com/ArinDhiman/DSA-in-JAVA/tree/master/0844-backspace-string-compare) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/ArinDhiman/DSA-in-JAVA/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Design
 |  |
