@@ -104,6 +104,7 @@ Happy Coding! 🚀
 | [0136-single-number](https://github.com/ArinDhiman/DSA-in-JAVA/tree/master/0136-single-number) |
 | [0217-contains-duplicate](https://github.com/ArinDhiman/DSA-in-JAVA/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/ArinDhiman/DSA-in-JAVA/tree/master/0283-move-zeroes) |
+| [0682-baseball-game](https://github.com/ArinDhiman/DSA-in-JAVA/tree/master/0682-baseball-game) |
 | [0817-linked-list-components](https://github.com/ArinDhiman/DSA-in-JAVA/tree/master/0817-linked-list-components) |
 | [1046-last-stone-weight](https://github.com/ArinDhiman/DSA-in-JAVA/tree/master/1046-last-stone-weight) |
 | [2965-find-missing-and-repeated-values](https://github.com/ArinDhiman/DSA-in-JAVA/tree/master/2965-find-missing-and-repeated-values) |
@@ -161,6 +162,7 @@ Happy Coding! 🚀
 | [0225-implement-stack-using-queues](https://github.com/ArinDhiman/DSA-in-JAVA/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/ArinDhiman/DSA-in-JAVA/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/ArinDhiman/DSA-in-JAVA/tree/master/0234-palindrome-linked-list) |
+| [0682-baseball-game](https://github.com/ArinDhiman/DSA-in-JAVA/tree/master/0682-baseball-game) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/ArinDhiman/DSA-in-JAVA/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Tree
 |  |
@@ -229,6 +231,7 @@ Happy Coding! 🚀
 ## Simulation
 |  |
 | ------- |
+| [0682-baseball-game](https://github.com/ArinDhiman/DSA-in-JAVA/tree/master/0682-baseball-game) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/ArinDhiman/DSA-in-JAVA/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Design
 |  |
