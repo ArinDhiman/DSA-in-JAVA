@@ -99,6 +99,7 @@ Happy Coding! 🚀
 ## Array
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/ArinDhiman/DSA-in-JAVA/tree/master/0014-longest-common-prefix) |
 | [0088-merge-sorted-array](https://github.com/ArinDhiman/DSA-in-JAVA/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ArinDhiman/DSA-in-JAVA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/ArinDhiman/DSA-in-JAVA/tree/master/0136-single-number) |
@@ -231,6 +232,7 @@ Happy Coding! 🚀
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/ArinDhiman/DSA-in-JAVA/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/ArinDhiman/DSA-in-JAVA/tree/master/0020-valid-parentheses) |
 | [0151-reverse-words-in-a-string](https://github.com/ArinDhiman/DSA-in-JAVA/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/ArinDhiman/DSA-in-JAVA/tree/master/0242-valid-anagram) |
@@ -261,4 +263,8 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/ArinDhiman/DSA-in-JAVA/tree/master/0268-missing-number) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/ArinDhiman/DSA-in-JAVA/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
