@@ -109,6 +109,7 @@ Happy Coding! 🚀
 | [0682-baseball-game](https://github.com/ArinDhiman/DSA-in-JAVA/tree/master/0682-baseball-game) |
 | [0817-linked-list-components](https://github.com/ArinDhiman/DSA-in-JAVA/tree/master/0817-linked-list-components) |
 | [1046-last-stone-weight](https://github.com/ArinDhiman/DSA-in-JAVA/tree/master/1046-last-stone-weight) |
+| [1512-number-of-good-pairs](https://github.com/ArinDhiman/DSA-in-JAVA/tree/master/1512-number-of-good-pairs) |
 | [2965-find-missing-and-repeated-values](https://github.com/ArinDhiman/DSA-in-JAVA/tree/master/2965-find-missing-and-repeated-values) |
 ## Hash Table
 |  |
@@ -119,11 +120,13 @@ Happy Coding! 🚀
 | [0242-valid-anagram](https://github.com/ArinDhiman/DSA-in-JAVA/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/ArinDhiman/DSA-in-JAVA/tree/master/0268-missing-number) |
 | [0817-linked-list-components](https://github.com/ArinDhiman/DSA-in-JAVA/tree/master/0817-linked-list-components) |
+| [1512-number-of-good-pairs](https://github.com/ArinDhiman/DSA-in-JAVA/tree/master/1512-number-of-good-pairs) |
 | [2965-find-missing-and-repeated-values](https://github.com/ArinDhiman/DSA-in-JAVA/tree/master/2965-find-missing-and-repeated-values) |
 ## Math
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/ArinDhiman/DSA-in-JAVA/tree/master/0268-missing-number) |
+| [1512-number-of-good-pairs](https://github.com/ArinDhiman/DSA-in-JAVA/tree/master/1512-number-of-good-pairs) |
 | [2965-find-missing-and-repeated-values](https://github.com/ArinDhiman/DSA-in-JAVA/tree/master/2965-find-missing-and-repeated-values) |
 ## Matrix
 |  |
@@ -267,4 +270,8 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/ArinDhiman/DSA-in-JAVA/tree/master/0014-longest-common-prefix) |
+## Counting
+|  |
+| ------- |
+| [1512-number-of-good-pairs](https://github.com/ArinDhiman/DSA-in-JAVA/tree/master/1512-number-of-good-pairs) |
 <!---LeetCode Topics End-->
