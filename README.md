@@ -315,4 +315,8 @@ Happy Coding! 🚀
 | [0096-unique-binary-search-trees](https://github.com/ArinDhiman/DSA-in-JAVA/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/ArinDhiman/DSA-in-JAVA/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/ArinDhiman/DSA-in-JAVA/tree/master/0099-recover-binary-search-tree) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/ArinDhiman/DSA-in-JAVA/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
