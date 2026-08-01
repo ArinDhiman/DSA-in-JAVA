@@ -150,6 +150,7 @@ Happy Coding! 🚀
 | [0160-intersection-of-two-linked-lists](https://github.com/ArinDhiman/DSA-in-JAVA/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/ArinDhiman/DSA-in-JAVA/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/ArinDhiman/DSA-in-JAVA/tree/master/0283-move-zeroes) |
+| [0344-reverse-string](https://github.com/ArinDhiman/DSA-in-JAVA/tree/master/0344-reverse-string) |
 | [0844-backspace-string-compare](https://github.com/ArinDhiman/DSA-in-JAVA/tree/master/0844-backspace-string-compare) |
 | [0876-middle-of-the-linked-list](https://github.com/ArinDhiman/DSA-in-JAVA/tree/master/0876-middle-of-the-linked-list) |
 ## Sorting
@@ -277,6 +278,7 @@ Happy Coding! 🚀
 | [0125-valid-palindrome](https://github.com/ArinDhiman/DSA-in-JAVA/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/ArinDhiman/DSA-in-JAVA/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/ArinDhiman/DSA-in-JAVA/tree/master/0242-valid-anagram) |
+| [0344-reverse-string](https://github.com/ArinDhiman/DSA-in-JAVA/tree/master/0344-reverse-string) |
 | [0844-backspace-string-compare](https://github.com/ArinDhiman/DSA-in-JAVA/tree/master/0844-backspace-string-compare) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/ArinDhiman/DSA-in-JAVA/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Simulation
