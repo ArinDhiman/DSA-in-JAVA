@@ -102,6 +102,7 @@ Happy Coding! 🚀
 | [0014-longest-common-prefix](https://github.com/ArinDhiman/DSA-in-JAVA/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ArinDhiman/DSA-in-JAVA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0088-merge-sorted-array](https://github.com/ArinDhiman/DSA-in-JAVA/tree/master/0088-merge-sorted-array) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/ArinDhiman/DSA-in-JAVA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ArinDhiman/DSA-in-JAVA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/ArinDhiman/DSA-in-JAVA/tree/master/0136-single-number) |
 | [0217-contains-duplicate](https://github.com/ArinDhiman/DSA-in-JAVA/tree/master/0217-contains-duplicate) |
@@ -197,6 +198,7 @@ Happy Coding! 🚀
 | [0101-symmetric-tree](https://github.com/ArinDhiman/DSA-in-JAVA/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/ArinDhiman/DSA-in-JAVA/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/ArinDhiman/DSA-in-JAVA/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/ArinDhiman/DSA-in-JAVA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/ArinDhiman/DSA-in-JAVA/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/ArinDhiman/DSA-in-JAVA/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/ArinDhiman/DSA-in-JAVA/tree/master/0113-path-sum-ii) |
@@ -236,6 +238,7 @@ Happy Coding! 🚀
 | [0101-symmetric-tree](https://github.com/ArinDhiman/DSA-in-JAVA/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/ArinDhiman/DSA-in-JAVA/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/ArinDhiman/DSA-in-JAVA/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/ArinDhiman/DSA-in-JAVA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/ArinDhiman/DSA-in-JAVA/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/ArinDhiman/DSA-in-JAVA/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/ArinDhiman/DSA-in-JAVA/tree/master/0113-path-sum-ii) |
@@ -338,6 +341,7 @@ Happy Coding! 🚀
 | [0096-unique-binary-search-trees](https://github.com/ArinDhiman/DSA-in-JAVA/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/ArinDhiman/DSA-in-JAVA/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/ArinDhiman/DSA-in-JAVA/tree/master/0099-recover-binary-search-tree) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/ArinDhiman/DSA-in-JAVA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/ArinDhiman/DSA-in-JAVA/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/ArinDhiman/DSA-in-JAVA/tree/master/0703-kth-largest-element-in-a-stream) |
 ## Database
@@ -360,4 +364,8 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0703-kth-largest-element-in-a-stream](https://github.com/ArinDhiman/DSA-in-JAVA/tree/master/0703-kth-largest-element-in-a-stream) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/ArinDhiman/DSA-in-JAVA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 <!---LeetCode Topics End-->
