@@ -5,17 +5,16 @@ class Solution {
         int count =0;
         for(int i=0;i<n;i++){
             if(!visited[i]){
-                count++;
                 dfs(isConnected,visited,i);
+                count++;
             }
-            
         }
         return count;
     }
-    public void dfs(int [][] graph,boolean [] visited,int city){
-        visited[city]=true;
+    public void dfs(int [][] graph,boolean [] visited,int node){
+        visited[node]=true;
         for(int i=0;i<graph.length;i++){
-            if(graph[city][i]==1 && !visited[i]){
+            if(graph[node][i]==1 && !visited[i]){
                 dfs(graph,visited,i);
             }
         }
