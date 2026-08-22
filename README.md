@@ -99,6 +99,7 @@ Happy Coding! 🚀
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/ArinDhiman/DSA-in-JAVA/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/ArinDhiman/DSA-in-JAVA/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ArinDhiman/DSA-in-JAVA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0075-sort-colors](https://github.com/ArinDhiman/DSA-in-JAVA/tree/master/0075-sort-colors) |
@@ -117,6 +118,7 @@ Happy Coding! 🚀
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/ArinDhiman/DSA-in-JAVA/tree/master/0001-two-sum) |
 | [0142-linked-list-cycle-ii](https://github.com/ArinDhiman/DSA-in-JAVA/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/ArinDhiman/DSA-in-JAVA/tree/master/0160-intersection-of-two-linked-lists) |
 | [0217-contains-duplicate](https://github.com/ArinDhiman/DSA-in-JAVA/tree/master/0217-contains-duplicate) |
