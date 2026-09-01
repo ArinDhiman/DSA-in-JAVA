@@ -107,6 +107,7 @@ Happy Coding! 🚀
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/ArinDhiman/DSA-in-JAVA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ArinDhiman/DSA-in-JAVA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/ArinDhiman/DSA-in-JAVA/tree/master/0136-single-number) |
+| [0200-number-of-islands](https://github.com/ArinDhiman/DSA-in-JAVA/tree/master/0200-number-of-islands) |
 | [0217-contains-duplicate](https://github.com/ArinDhiman/DSA-in-JAVA/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/ArinDhiman/DSA-in-JAVA/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/ArinDhiman/DSA-in-JAVA/tree/master/0283-move-zeroes) |
@@ -141,6 +142,7 @@ Happy Coding! 🚀
 ## Matrix
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/ArinDhiman/DSA-in-JAVA/tree/master/0200-number-of-islands) |
 | [0733-flood-fill](https://github.com/ArinDhiman/DSA-in-JAVA/tree/master/0733-flood-fill) |
 | [2965-find-missing-and-repeated-values](https://github.com/ArinDhiman/DSA-in-JAVA/tree/master/2965-find-missing-and-repeated-values) |
 ## Two Pointers
@@ -234,6 +236,7 @@ Happy Coding! 🚀
 | [0144-binary-tree-preorder-traversal](https://github.com/ArinDhiman/DSA-in-JAVA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/ArinDhiman/DSA-in-JAVA/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/ArinDhiman/DSA-in-JAVA/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/ArinDhiman/DSA-in-JAVA/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/ArinDhiman/DSA-in-JAVA/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/ArinDhiman/DSA-in-JAVA/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0547-number-of-provinces](https://github.com/ArinDhiman/DSA-in-JAVA/tree/master/0547-number-of-provinces) |
@@ -270,6 +273,7 @@ Happy Coding! 🚀
 | [0111-minimum-depth-of-binary-tree](https://github.com/ArinDhiman/DSA-in-JAVA/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/ArinDhiman/DSA-in-JAVA/tree/master/0112-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/ArinDhiman/DSA-in-JAVA/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/ArinDhiman/DSA-in-JAVA/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/ArinDhiman/DSA-in-JAVA/tree/master/0226-invert-binary-tree) |
 | [0547-number-of-provinces](https://github.com/ArinDhiman/DSA-in-JAVA/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/ArinDhiman/DSA-in-JAVA/tree/master/0733-flood-fill) |
@@ -385,6 +389,7 @@ Happy Coding! 🚀
 ## Union-Find
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/ArinDhiman/DSA-in-JAVA/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/ArinDhiman/DSA-in-JAVA/tree/master/0547-number-of-provinces) |
 ## Graph Theory
 |  |
