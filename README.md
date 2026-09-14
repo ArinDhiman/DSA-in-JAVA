@@ -103,6 +103,7 @@ Happy Coding! 🚀
 | [0014-longest-common-prefix](https://github.com/ArinDhiman/DSA-in-JAVA/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ArinDhiman/DSA-in-JAVA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/ArinDhiman/DSA-in-JAVA/tree/master/0027-remove-element) |
+| [0040-combination-sum-ii](https://github.com/ArinDhiman/DSA-in-JAVA/tree/master/0040-combination-sum-ii) |
 | [0075-sort-colors](https://github.com/ArinDhiman/DSA-in-JAVA/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/ArinDhiman/DSA-in-JAVA/tree/master/0088-merge-sorted-array) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/ArinDhiman/DSA-in-JAVA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
@@ -379,6 +380,7 @@ Happy Coding! 🚀
 ## Backtracking
 |  |
 | ------- |
+| [0040-combination-sum-ii](https://github.com/ArinDhiman/DSA-in-JAVA/tree/master/0040-combination-sum-ii) |
 | [0113-path-sum-ii](https://github.com/ArinDhiman/DSA-in-JAVA/tree/master/0113-path-sum-ii) |
 ## Data Stream
 |  |
