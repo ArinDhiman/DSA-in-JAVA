@@ -110,6 +110,7 @@ Happy Coding! 🚀
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ArinDhiman/DSA-in-JAVA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/ArinDhiman/DSA-in-JAVA/tree/master/0136-single-number) |
 | [0200-number-of-islands](https://github.com/ArinDhiman/DSA-in-JAVA/tree/master/0200-number-of-islands) |
+| [0209-minimum-size-subarray-sum](https://github.com/ArinDhiman/DSA-in-JAVA/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/ArinDhiman/DSA-in-JAVA/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/ArinDhiman/DSA-in-JAVA/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/ArinDhiman/DSA-in-JAVA/tree/master/0283-move-zeroes) |
@@ -350,6 +351,7 @@ Happy Coding! 🚀
 ## Binary Search
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/ArinDhiman/DSA-in-JAVA/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/ArinDhiman/DSA-in-JAVA/tree/master/0268-missing-number) |
 ## Trie
 |  |
@@ -413,9 +415,14 @@ Happy Coding! 🚀
 ## Prefix Sum
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/ArinDhiman/DSA-in-JAVA/tree/master/0209-minimum-size-subarray-sum) |
 | [0523-continuous-subarray-sum](https://github.com/ArinDhiman/DSA-in-JAVA/tree/master/0523-continuous-subarray-sum) |
 ## Pigeonhole Principle
 |  |
 | ------- |
 | [0523-continuous-subarray-sum](https://github.com/ArinDhiman/DSA-in-JAVA/tree/master/0523-continuous-subarray-sum) |
+## Sliding Window
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/ArinDhiman/DSA-in-JAVA/tree/master/0209-minimum-size-subarray-sum) |
 <!---LeetCode Topics End-->
