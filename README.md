@@ -116,6 +116,7 @@ Happy Coding! 🚀
 | [0268-missing-number](https://github.com/ArinDhiman/DSA-in-JAVA/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/ArinDhiman/DSA-in-JAVA/tree/master/0283-move-zeroes) |
 | [0523-continuous-subarray-sum](https://github.com/ArinDhiman/DSA-in-JAVA/tree/master/0523-continuous-subarray-sum) |
+| [0525-contiguous-array](https://github.com/ArinDhiman/DSA-in-JAVA/tree/master/0525-contiguous-array) |
 | [0682-baseball-game](https://github.com/ArinDhiman/DSA-in-JAVA/tree/master/0682-baseball-game) |
 | [0733-flood-fill](https://github.com/ArinDhiman/DSA-in-JAVA/tree/master/0733-flood-fill) |
 | [0817-linked-list-components](https://github.com/ArinDhiman/DSA-in-JAVA/tree/master/0817-linked-list-components) |
@@ -133,6 +134,7 @@ Happy Coding! 🚀
 | [0242-valid-anagram](https://github.com/ArinDhiman/DSA-in-JAVA/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/ArinDhiman/DSA-in-JAVA/tree/master/0268-missing-number) |
 | [0523-continuous-subarray-sum](https://github.com/ArinDhiman/DSA-in-JAVA/tree/master/0523-continuous-subarray-sum) |
+| [0525-contiguous-array](https://github.com/ArinDhiman/DSA-in-JAVA/tree/master/0525-contiguous-array) |
 | [0817-linked-list-components](https://github.com/ArinDhiman/DSA-in-JAVA/tree/master/0817-linked-list-components) |
 | [1512-number-of-good-pairs](https://github.com/ArinDhiman/DSA-in-JAVA/tree/master/1512-number-of-good-pairs) |
 | [2965-find-missing-and-repeated-values](https://github.com/ArinDhiman/DSA-in-JAVA/tree/master/2965-find-missing-and-repeated-values) |
@@ -419,6 +421,7 @@ Happy Coding! 🚀
 | [0209-minimum-size-subarray-sum](https://github.com/ArinDhiman/DSA-in-JAVA/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/ArinDhiman/DSA-in-JAVA/tree/master/0238-product-of-array-except-self) |
 | [0523-continuous-subarray-sum](https://github.com/ArinDhiman/DSA-in-JAVA/tree/master/0523-continuous-subarray-sum) |
+| [0525-contiguous-array](https://github.com/ArinDhiman/DSA-in-JAVA/tree/master/0525-contiguous-array) |
 ## Pigeonhole Principle
 |  |
 | ------- |
