@@ -110,6 +110,7 @@ Happy Coding! 🚀
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/ArinDhiman/DSA-in-JAVA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ArinDhiman/DSA-in-JAVA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/ArinDhiman/DSA-in-JAVA/tree/master/0136-single-number) |
+| [0189-rotate-array](https://github.com/ArinDhiman/DSA-in-JAVA/tree/master/0189-rotate-array) |
 | [0200-number-of-islands](https://github.com/ArinDhiman/DSA-in-JAVA/tree/master/0200-number-of-islands) |
 | [0209-minimum-size-subarray-sum](https://github.com/ArinDhiman/DSA-in-JAVA/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/ArinDhiman/DSA-in-JAVA/tree/master/0217-contains-duplicate) |
@@ -147,6 +148,7 @@ Happy Coding! 🚀
 | [0002-add-two-numbers](https://github.com/ArinDhiman/DSA-in-JAVA/tree/master/0002-add-two-numbers) |
 | [0048-rotate-image](https://github.com/ArinDhiman/DSA-in-JAVA/tree/master/0048-rotate-image) |
 | [0096-unique-binary-search-trees](https://github.com/ArinDhiman/DSA-in-JAVA/tree/master/0096-unique-binary-search-trees) |
+| [0189-rotate-array](https://github.com/ArinDhiman/DSA-in-JAVA/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/ArinDhiman/DSA-in-JAVA/tree/master/0268-missing-number) |
 | [0509-fibonacci-number](https://github.com/ArinDhiman/DSA-in-JAVA/tree/master/0509-fibonacci-number) |
 | [0523-continuous-subarray-sum](https://github.com/ArinDhiman/DSA-in-JAVA/tree/master/0523-continuous-subarray-sum) |
@@ -173,6 +175,7 @@ Happy Coding! 🚀
 | [0142-linked-list-cycle-ii](https://github.com/ArinDhiman/DSA-in-JAVA/tree/master/0142-linked-list-cycle-ii) |
 | [0151-reverse-words-in-a-string](https://github.com/ArinDhiman/DSA-in-JAVA/tree/master/0151-reverse-words-in-a-string) |
 | [0160-intersection-of-two-linked-lists](https://github.com/ArinDhiman/DSA-in-JAVA/tree/master/0160-intersection-of-two-linked-lists) |
+| [0189-rotate-array](https://github.com/ArinDhiman/DSA-in-JAVA/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/ArinDhiman/DSA-in-JAVA/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/ArinDhiman/DSA-in-JAVA/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/ArinDhiman/DSA-in-JAVA/tree/master/0344-reverse-string) |
