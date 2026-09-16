@@ -104,6 +104,7 @@ Happy Coding! 🚀
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ArinDhiman/DSA-in-JAVA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/ArinDhiman/DSA-in-JAVA/tree/master/0027-remove-element) |
 | [0040-combination-sum-ii](https://github.com/ArinDhiman/DSA-in-JAVA/tree/master/0040-combination-sum-ii) |
+| [0048-rotate-image](https://github.com/ArinDhiman/DSA-in-JAVA/tree/master/0048-rotate-image) |
 | [0075-sort-colors](https://github.com/ArinDhiman/DSA-in-JAVA/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/ArinDhiman/DSA-in-JAVA/tree/master/0088-merge-sorted-array) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/ArinDhiman/DSA-in-JAVA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
@@ -144,6 +145,7 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/ArinDhiman/DSA-in-JAVA/tree/master/0002-add-two-numbers) |
+| [0048-rotate-image](https://github.com/ArinDhiman/DSA-in-JAVA/tree/master/0048-rotate-image) |
 | [0096-unique-binary-search-trees](https://github.com/ArinDhiman/DSA-in-JAVA/tree/master/0096-unique-binary-search-trees) |
 | [0268-missing-number](https://github.com/ArinDhiman/DSA-in-JAVA/tree/master/0268-missing-number) |
 | [0509-fibonacci-number](https://github.com/ArinDhiman/DSA-in-JAVA/tree/master/0509-fibonacci-number) |
@@ -153,6 +155,7 @@ Happy Coding! 🚀
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/ArinDhiman/DSA-in-JAVA/tree/master/0048-rotate-image) |
 | [0200-number-of-islands](https://github.com/ArinDhiman/DSA-in-JAVA/tree/master/0200-number-of-islands) |
 | [0733-flood-fill](https://github.com/ArinDhiman/DSA-in-JAVA/tree/master/0733-flood-fill) |
 | [2965-find-missing-and-repeated-values](https://github.com/ArinDhiman/DSA-in-JAVA/tree/master/2965-find-missing-and-repeated-values) |
