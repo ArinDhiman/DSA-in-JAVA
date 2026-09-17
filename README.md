@@ -125,6 +125,7 @@ Happy Coding! 🚀
 | [0817-linked-list-components](https://github.com/ArinDhiman/DSA-in-JAVA/tree/master/0817-linked-list-components) |
 | [1046-last-stone-weight](https://github.com/ArinDhiman/DSA-in-JAVA/tree/master/1046-last-stone-weight) |
 | [1512-number-of-good-pairs](https://github.com/ArinDhiman/DSA-in-JAVA/tree/master/1512-number-of-good-pairs) |
+| [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/ArinDhiman/DSA-in-JAVA/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/ArinDhiman/DSA-in-JAVA/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2965-find-missing-and-repeated-values](https://github.com/ArinDhiman/DSA-in-JAVA/tree/master/2965-find-missing-and-repeated-values) |
 ## Hash Table
@@ -160,6 +161,7 @@ Happy Coding! 🚀
 | [0048-rotate-image](https://github.com/ArinDhiman/DSA-in-JAVA/tree/master/0048-rotate-image) |
 | [0200-number-of-islands](https://github.com/ArinDhiman/DSA-in-JAVA/tree/master/0200-number-of-islands) |
 | [0733-flood-fill](https://github.com/ArinDhiman/DSA-in-JAVA/tree/master/0733-flood-fill) |
+| [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/ArinDhiman/DSA-in-JAVA/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [2965-find-missing-and-repeated-values](https://github.com/ArinDhiman/DSA-in-JAVA/tree/master/2965-find-missing-and-repeated-values) |
 ## Two Pointers
 |  |
