@@ -103,6 +103,7 @@ Happy Coding! 🚀
 | [0014-longest-common-prefix](https://github.com/ArinDhiman/DSA-in-JAVA/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ArinDhiman/DSA-in-JAVA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/ArinDhiman/DSA-in-JAVA/tree/master/0027-remove-element) |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/ArinDhiman/DSA-in-JAVA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0040-combination-sum-ii](https://github.com/ArinDhiman/DSA-in-JAVA/tree/master/0040-combination-sum-ii) |
 | [0048-rotate-image](https://github.com/ArinDhiman/DSA-in-JAVA/tree/master/0048-rotate-image) |
 | [0075-sort-colors](https://github.com/ArinDhiman/DSA-in-JAVA/tree/master/0075-sort-colors) |
@@ -372,6 +373,7 @@ Happy Coding! 🚀
 ## Binary Search
 |  |
 | ------- |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/ArinDhiman/DSA-in-JAVA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/ArinDhiman/DSA-in-JAVA/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/ArinDhiman/DSA-in-JAVA/tree/master/0268-missing-number) |
 ## Trie
