@@ -344,6 +344,7 @@ Happy Coding! 🚀
 | [0242-valid-anagram](https://github.com/ArinDhiman/DSA-in-JAVA/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/ArinDhiman/DSA-in-JAVA/tree/master/0344-reverse-string) |
 | [0844-backspace-string-compare](https://github.com/ArinDhiman/DSA-in-JAVA/tree/master/0844-backspace-string-compare) |
+| [1392-longest-happy-prefix](https://github.com/ArinDhiman/DSA-in-JAVA/tree/master/1392-longest-happy-prefix) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/ArinDhiman/DSA-in-JAVA/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Simulation
 |  |
@@ -470,4 +471,24 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0912-sort-an-array](https://github.com/ArinDhiman/DSA-in-JAVA/tree/master/0912-sort-an-array) |
+## Rolling Hash
+|  |
+| ------- |
+| [1392-longest-happy-prefix](https://github.com/ArinDhiman/DSA-in-JAVA/tree/master/1392-longest-happy-prefix) |
+## String Matching
+|  |
+| ------- |
+| [1392-longest-happy-prefix](https://github.com/ArinDhiman/DSA-in-JAVA/tree/master/1392-longest-happy-prefix) |
+## Hash Function
+|  |
+| ------- |
+| [1392-longest-happy-prefix](https://github.com/ArinDhiman/DSA-in-JAVA/tree/master/1392-longest-happy-prefix) |
+## Z Algorithm
+|  |
+| ------- |
+| [1392-longest-happy-prefix](https://github.com/ArinDhiman/DSA-in-JAVA/tree/master/1392-longest-happy-prefix) |
+## Knuth–Morris–Pratt Algorithm
+|  |
+| ------- |
+| [1392-longest-happy-prefix](https://github.com/ArinDhiman/DSA-in-JAVA/tree/master/1392-longest-happy-prefix) |
 <!---LeetCode Topics End-->
