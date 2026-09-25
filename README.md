@@ -343,6 +343,7 @@ Happy Coding! 🚀
 | [0151-reverse-words-in-a-string](https://github.com/ArinDhiman/DSA-in-JAVA/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/ArinDhiman/DSA-in-JAVA/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/ArinDhiman/DSA-in-JAVA/tree/master/0344-reverse-string) |
+| [0686-repeated-string-match](https://github.com/ArinDhiman/DSA-in-JAVA/tree/master/0686-repeated-string-match) |
 | [0844-backspace-string-compare](https://github.com/ArinDhiman/DSA-in-JAVA/tree/master/0844-backspace-string-compare) |
 | [1392-longest-happy-prefix](https://github.com/ArinDhiman/DSA-in-JAVA/tree/master/1392-longest-happy-prefix) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/ArinDhiman/DSA-in-JAVA/tree/master/1910-remove-all-occurrences-of-a-substring) |
@@ -478,6 +479,7 @@ Happy Coding! 🚀
 ## String Matching
 |  |
 | ------- |
+| [0686-repeated-string-match](https://github.com/ArinDhiman/DSA-in-JAVA/tree/master/0686-repeated-string-match) |
 | [1392-longest-happy-prefix](https://github.com/ArinDhiman/DSA-in-JAVA/tree/master/1392-longest-happy-prefix) |
 ## Hash Function
 |  |
@@ -486,9 +488,15 @@ Happy Coding! 🚀
 ## Z Algorithm
 |  |
 | ------- |
+| [0686-repeated-string-match](https://github.com/ArinDhiman/DSA-in-JAVA/tree/master/0686-repeated-string-match) |
 | [1392-longest-happy-prefix](https://github.com/ArinDhiman/DSA-in-JAVA/tree/master/1392-longest-happy-prefix) |
 ## Knuth–Morris–Pratt Algorithm
 |  |
 | ------- |
+| [0686-repeated-string-match](https://github.com/ArinDhiman/DSA-in-JAVA/tree/master/0686-repeated-string-match) |
 | [1392-longest-happy-prefix](https://github.com/ArinDhiman/DSA-in-JAVA/tree/master/1392-longest-happy-prefix) |
+## Boyer–Moore String-Search Algorithm
+|  |
+| ------- |
+| [0686-repeated-string-match](https://github.com/ArinDhiman/DSA-in-JAVA/tree/master/0686-repeated-string-match) |
 <!---LeetCode Topics End-->
