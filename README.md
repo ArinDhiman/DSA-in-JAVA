@@ -118,6 +118,7 @@ Happy Coding! 🚀
 | [0238-product-of-array-except-self](https://github.com/ArinDhiman/DSA-in-JAVA/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/ArinDhiman/DSA-in-JAVA/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/ArinDhiman/DSA-in-JAVA/tree/master/0283-move-zeroes) |
+| [0455-assign-cookies](https://github.com/ArinDhiman/DSA-in-JAVA/tree/master/0455-assign-cookies) |
 | [0523-continuous-subarray-sum](https://github.com/ArinDhiman/DSA-in-JAVA/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/ArinDhiman/DSA-in-JAVA/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/ArinDhiman/DSA-in-JAVA/tree/master/0560-subarray-sum-equals-k) |
@@ -185,6 +186,7 @@ Happy Coding! 🚀
 | [0234-palindrome-linked-list](https://github.com/ArinDhiman/DSA-in-JAVA/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/ArinDhiman/DSA-in-JAVA/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/ArinDhiman/DSA-in-JAVA/tree/master/0344-reverse-string) |
+| [0455-assign-cookies](https://github.com/ArinDhiman/DSA-in-JAVA/tree/master/0455-assign-cookies) |
 | [0844-backspace-string-compare](https://github.com/ArinDhiman/DSA-in-JAVA/tree/master/0844-backspace-string-compare) |
 | [0876-middle-of-the-linked-list](https://github.com/ArinDhiman/DSA-in-JAVA/tree/master/0876-middle-of-the-linked-list) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/ArinDhiman/DSA-in-JAVA/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -197,6 +199,7 @@ Happy Coding! 🚀
 | [0217-contains-duplicate](https://github.com/ArinDhiman/DSA-in-JAVA/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/ArinDhiman/DSA-in-JAVA/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/ArinDhiman/DSA-in-JAVA/tree/master/0268-missing-number) |
+| [0455-assign-cookies](https://github.com/ArinDhiman/DSA-in-JAVA/tree/master/0455-assign-cookies) |
 | [0912-sort-an-array](https://github.com/ArinDhiman/DSA-in-JAVA/tree/master/0912-sort-an-array) |
 ## Bit Manipulation
 |  |
@@ -435,6 +438,7 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/ArinDhiman/DSA-in-JAVA/tree/master/0075-sort-colors) |
+| [0455-assign-cookies](https://github.com/ArinDhiman/DSA-in-JAVA/tree/master/0455-assign-cookies) |
 ## Bubble Sort
 |  |
 | ------- |
@@ -499,4 +503,8 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0686-repeated-string-match](https://github.com/ArinDhiman/DSA-in-JAVA/tree/master/0686-repeated-string-match) |
+## Greedy
+|  |
+| ------- |
+| [0455-assign-cookies](https://github.com/ArinDhiman/DSA-in-JAVA/tree/master/0455-assign-cookies) |
 <!---LeetCode Topics End-->
