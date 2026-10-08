@@ -118,6 +118,7 @@ Happy Coding! 🚀
 | [0238-product-of-array-except-self](https://github.com/ArinDhiman/DSA-in-JAVA/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/ArinDhiman/DSA-in-JAVA/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/ArinDhiman/DSA-in-JAVA/tree/master/0283-move-zeroes) |
+| [0435-non-overlapping-intervals](https://github.com/ArinDhiman/DSA-in-JAVA/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/ArinDhiman/DSA-in-JAVA/tree/master/0455-assign-cookies) |
 | [0523-continuous-subarray-sum](https://github.com/ArinDhiman/DSA-in-JAVA/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/ArinDhiman/DSA-in-JAVA/tree/master/0525-contiguous-array) |
@@ -199,6 +200,7 @@ Happy Coding! 🚀
 | [0217-contains-duplicate](https://github.com/ArinDhiman/DSA-in-JAVA/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/ArinDhiman/DSA-in-JAVA/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/ArinDhiman/DSA-in-JAVA/tree/master/0268-missing-number) |
+| [0435-non-overlapping-intervals](https://github.com/ArinDhiman/DSA-in-JAVA/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/ArinDhiman/DSA-in-JAVA/tree/master/0455-assign-cookies) |
 | [0912-sort-an-array](https://github.com/ArinDhiman/DSA-in-JAVA/tree/master/0912-sort-an-array) |
 ## Bit Manipulation
@@ -212,6 +214,7 @@ Happy Coding! 🚀
 | [0096-unique-binary-search-trees](https://github.com/ArinDhiman/DSA-in-JAVA/tree/master/0096-unique-binary-search-trees) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ArinDhiman/DSA-in-JAVA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/ArinDhiman/DSA-in-JAVA/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0435-non-overlapping-intervals](https://github.com/ArinDhiman/DSA-in-JAVA/tree/master/0435-non-overlapping-intervals) |
 | [0509-fibonacci-number](https://github.com/ArinDhiman/DSA-in-JAVA/tree/master/0509-fibonacci-number) |
 ## Stack
 |  |
@@ -506,5 +509,6 @@ Happy Coding! 🚀
 ## Greedy
 |  |
 | ------- |
+| [0435-non-overlapping-intervals](https://github.com/ArinDhiman/DSA-in-JAVA/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/ArinDhiman/DSA-in-JAVA/tree/master/0455-assign-cookies) |
 <!---LeetCode Topics End-->
