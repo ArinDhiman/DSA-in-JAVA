@@ -119,6 +119,7 @@ Happy Coding! 🚀
 | [0268-missing-number](https://github.com/ArinDhiman/DSA-in-JAVA/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/ArinDhiman/DSA-in-JAVA/tree/master/0283-move-zeroes) |
 | [0435-non-overlapping-intervals](https://github.com/ArinDhiman/DSA-in-JAVA/tree/master/0435-non-overlapping-intervals) |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/ArinDhiman/DSA-in-JAVA/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/ArinDhiman/DSA-in-JAVA/tree/master/0455-assign-cookies) |
 | [0523-continuous-subarray-sum](https://github.com/ArinDhiman/DSA-in-JAVA/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/ArinDhiman/DSA-in-JAVA/tree/master/0525-contiguous-array) |
@@ -201,6 +202,7 @@ Happy Coding! 🚀
 | [0242-valid-anagram](https://github.com/ArinDhiman/DSA-in-JAVA/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/ArinDhiman/DSA-in-JAVA/tree/master/0268-missing-number) |
 | [0435-non-overlapping-intervals](https://github.com/ArinDhiman/DSA-in-JAVA/tree/master/0435-non-overlapping-intervals) |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/ArinDhiman/DSA-in-JAVA/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/ArinDhiman/DSA-in-JAVA/tree/master/0455-assign-cookies) |
 | [0912-sort-an-array](https://github.com/ArinDhiman/DSA-in-JAVA/tree/master/0912-sort-an-array) |
 ## Bit Manipulation
@@ -510,5 +512,6 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0435-non-overlapping-intervals](https://github.com/ArinDhiman/DSA-in-JAVA/tree/master/0435-non-overlapping-intervals) |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/ArinDhiman/DSA-in-JAVA/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/ArinDhiman/DSA-in-JAVA/tree/master/0455-assign-cookies) |
 <!---LeetCode Topics End-->
