@@ -129,6 +129,7 @@ Happy Coding! 🚀
 | [0733-flood-fill](https://github.com/ArinDhiman/DSA-in-JAVA/tree/master/0733-flood-fill) |
 | [0817-linked-list-components](https://github.com/ArinDhiman/DSA-in-JAVA/tree/master/0817-linked-list-components) |
 | [0912-sort-an-array](https://github.com/ArinDhiman/DSA-in-JAVA/tree/master/0912-sort-an-array) |
+| [1029-two-city-scheduling](https://github.com/ArinDhiman/DSA-in-JAVA/tree/master/1029-two-city-scheduling) |
 | [1046-last-stone-weight](https://github.com/ArinDhiman/DSA-in-JAVA/tree/master/1046-last-stone-weight) |
 | [1512-number-of-good-pairs](https://github.com/ArinDhiman/DSA-in-JAVA/tree/master/1512-number-of-good-pairs) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/ArinDhiman/DSA-in-JAVA/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
@@ -207,6 +208,7 @@ Happy Coding! 🚀
 | [0455-assign-cookies](https://github.com/ArinDhiman/DSA-in-JAVA/tree/master/0455-assign-cookies) |
 | [0646-maximum-length-of-pair-chain](https://github.com/ArinDhiman/DSA-in-JAVA/tree/master/0646-maximum-length-of-pair-chain) |
 | [0912-sort-an-array](https://github.com/ArinDhiman/DSA-in-JAVA/tree/master/0912-sort-an-array) |
+| [1029-two-city-scheduling](https://github.com/ArinDhiman/DSA-in-JAVA/tree/master/1029-two-city-scheduling) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -518,8 +520,17 @@ Happy Coding! 🚀
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/ArinDhiman/DSA-in-JAVA/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/ArinDhiman/DSA-in-JAVA/tree/master/0455-assign-cookies) |
 | [0646-maximum-length-of-pair-chain](https://github.com/ArinDhiman/DSA-in-JAVA/tree/master/0646-maximum-length-of-pair-chain) |
+| [1029-two-city-scheduling](https://github.com/ArinDhiman/DSA-in-JAVA/tree/master/1029-two-city-scheduling) |
 ## Longest Increasing Subsequence
 |  |
 | ------- |
 | [0646-maximum-length-of-pair-chain](https://github.com/ArinDhiman/DSA-in-JAVA/tree/master/0646-maximum-length-of-pair-chain) |
+## Hungarian Algorithm
+|  |
+| ------- |
+| [1029-two-city-scheduling](https://github.com/ArinDhiman/DSA-in-JAVA/tree/master/1029-two-city-scheduling) |
+## Successive Shortest Path Algorithm
+|  |
+| ------- |
+| [1029-two-city-scheduling](https://github.com/ArinDhiman/DSA-in-JAVA/tree/master/1029-two-city-scheduling) |
 <!---LeetCode Topics End-->
