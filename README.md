@@ -100,6 +100,7 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/ArinDhiman/DSA-in-JAVA/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/ArinDhiman/DSA-in-JAVA/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/ArinDhiman/DSA-in-JAVA/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ArinDhiman/DSA-in-JAVA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/ArinDhiman/DSA-in-JAVA/tree/master/0027-remove-element) |
@@ -173,6 +174,7 @@ Happy Coding! 🚀
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/ArinDhiman/DSA-in-JAVA/tree/master/0011-container-with-most-water) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/ArinDhiman/DSA-in-JAVA/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ArinDhiman/DSA-in-JAVA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/ArinDhiman/DSA-in-JAVA/tree/master/0027-remove-element) |
@@ -516,6 +518,7 @@ Happy Coding! 🚀
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/ArinDhiman/DSA-in-JAVA/tree/master/0011-container-with-most-water) |
 | [0435-non-overlapping-intervals](https://github.com/ArinDhiman/DSA-in-JAVA/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/ArinDhiman/DSA-in-JAVA/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/ArinDhiman/DSA-in-JAVA/tree/master/0455-assign-cookies) |
