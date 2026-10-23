@@ -105,6 +105,7 @@ Happy Coding! 🚀
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ArinDhiman/DSA-in-JAVA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/ArinDhiman/DSA-in-JAVA/tree/master/0027-remove-element) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/ArinDhiman/DSA-in-JAVA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0036-valid-sudoku](https://github.com/ArinDhiman/DSA-in-JAVA/tree/master/0036-valid-sudoku) |
 | [0040-combination-sum-ii](https://github.com/ArinDhiman/DSA-in-JAVA/tree/master/0040-combination-sum-ii) |
 | [0048-rotate-image](https://github.com/ArinDhiman/DSA-in-JAVA/tree/master/0048-rotate-image) |
 | [0075-sort-colors](https://github.com/ArinDhiman/DSA-in-JAVA/tree/master/0075-sort-colors) |
@@ -140,6 +141,7 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/ArinDhiman/DSA-in-JAVA/tree/master/0001-two-sum) |
+| [0036-valid-sudoku](https://github.com/ArinDhiman/DSA-in-JAVA/tree/master/0036-valid-sudoku) |
 | [0142-linked-list-cycle-ii](https://github.com/ArinDhiman/DSA-in-JAVA/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/ArinDhiman/DSA-in-JAVA/tree/master/0160-intersection-of-two-linked-lists) |
 | [0217-contains-duplicate](https://github.com/ArinDhiman/DSA-in-JAVA/tree/master/0217-contains-duplicate) |
@@ -166,6 +168,7 @@ Happy Coding! 🚀
 ## Matrix
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/ArinDhiman/DSA-in-JAVA/tree/master/0036-valid-sudoku) |
 | [0048-rotate-image](https://github.com/ArinDhiman/DSA-in-JAVA/tree/master/0048-rotate-image) |
 | [0200-number-of-islands](https://github.com/ArinDhiman/DSA-in-JAVA/tree/master/0200-number-of-islands) |
 | [0733-flood-fill](https://github.com/ArinDhiman/DSA-in-JAVA/tree/master/0733-flood-fill) |
