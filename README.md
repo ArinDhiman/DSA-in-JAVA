@@ -123,6 +123,7 @@ Happy Coding! 🚀
 | [0435-non-overlapping-intervals](https://github.com/ArinDhiman/DSA-in-JAVA/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/ArinDhiman/DSA-in-JAVA/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/ArinDhiman/DSA-in-JAVA/tree/master/0455-assign-cookies) |
+| [0518-coin-change-ii](https://github.com/ArinDhiman/DSA-in-JAVA/tree/master/0518-coin-change-ii) |
 | [0523-continuous-subarray-sum](https://github.com/ArinDhiman/DSA-in-JAVA/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/ArinDhiman/DSA-in-JAVA/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/ArinDhiman/DSA-in-JAVA/tree/master/0560-subarray-sum-equals-k) |
@@ -227,6 +228,7 @@ Happy Coding! 🚀
 | [0124-binary-tree-maximum-path-sum](https://github.com/ArinDhiman/DSA-in-JAVA/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0435-non-overlapping-intervals](https://github.com/ArinDhiman/DSA-in-JAVA/tree/master/0435-non-overlapping-intervals) |
 | [0509-fibonacci-number](https://github.com/ArinDhiman/DSA-in-JAVA/tree/master/0509-fibonacci-number) |
+| [0518-coin-change-ii](https://github.com/ArinDhiman/DSA-in-JAVA/tree/master/0518-coin-change-ii) |
 | [0646-maximum-length-of-pair-chain](https://github.com/ArinDhiman/DSA-in-JAVA/tree/master/0646-maximum-length-of-pair-chain) |
 ## Stack
 |  |
@@ -539,4 +541,12 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [1029-two-city-scheduling](https://github.com/ArinDhiman/DSA-in-JAVA/tree/master/1029-two-city-scheduling) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0518-coin-change-ii](https://github.com/ArinDhiman/DSA-in-JAVA/tree/master/0518-coin-change-ii) |
+## Complete Knapsack
+|  |
+| ------- |
+| [0518-coin-change-ii](https://github.com/ArinDhiman/DSA-in-JAVA/tree/master/0518-coin-change-ii) |
 <!---LeetCode Topics End-->
