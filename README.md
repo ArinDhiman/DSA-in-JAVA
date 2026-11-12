@@ -230,6 +230,7 @@ Happy Coding! 🚀
 | [0509-fibonacci-number](https://github.com/ArinDhiman/DSA-in-JAVA/tree/master/0509-fibonacci-number) |
 | [0518-coin-change-ii](https://github.com/ArinDhiman/DSA-in-JAVA/tree/master/0518-coin-change-ii) |
 | [0646-maximum-length-of-pair-chain](https://github.com/ArinDhiman/DSA-in-JAVA/tree/master/0646-maximum-length-of-pair-chain) |
+| [1143-longest-common-subsequence](https://github.com/ArinDhiman/DSA-in-JAVA/tree/master/1143-longest-common-subsequence) |
 ## Stack
 |  |
 | ------- |
@@ -365,6 +366,7 @@ Happy Coding! 🚀
 | [0344-reverse-string](https://github.com/ArinDhiman/DSA-in-JAVA/tree/master/0344-reverse-string) |
 | [0686-repeated-string-match](https://github.com/ArinDhiman/DSA-in-JAVA/tree/master/0686-repeated-string-match) |
 | [0844-backspace-string-compare](https://github.com/ArinDhiman/DSA-in-JAVA/tree/master/0844-backspace-string-compare) |
+| [1143-longest-common-subsequence](https://github.com/ArinDhiman/DSA-in-JAVA/tree/master/1143-longest-common-subsequence) |
 | [1392-longest-happy-prefix](https://github.com/ArinDhiman/DSA-in-JAVA/tree/master/1392-longest-happy-prefix) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/ArinDhiman/DSA-in-JAVA/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Simulation
@@ -549,4 +551,8 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0518-coin-change-ii](https://github.com/ArinDhiman/DSA-in-JAVA/tree/master/0518-coin-change-ii) |
+## Longest Common Subsequence
+|  |
+| ------- |
+| [1143-longest-common-subsequence](https://github.com/ArinDhiman/DSA-in-JAVA/tree/master/1143-longest-common-subsequence) |
 <!---LeetCode Topics End-->
