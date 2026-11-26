@@ -120,6 +120,7 @@ Happy Coding! 🚀
 | [0238-product-of-array-except-self](https://github.com/ArinDhiman/DSA-in-JAVA/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/ArinDhiman/DSA-in-JAVA/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/ArinDhiman/DSA-in-JAVA/tree/master/0283-move-zeroes) |
+| [0300-longest-increasing-subsequence](https://github.com/ArinDhiman/DSA-in-JAVA/tree/master/0300-longest-increasing-subsequence) |
 | [0435-non-overlapping-intervals](https://github.com/ArinDhiman/DSA-in-JAVA/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/ArinDhiman/DSA-in-JAVA/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/ArinDhiman/DSA-in-JAVA/tree/master/0455-assign-cookies) |
@@ -226,6 +227,7 @@ Happy Coding! 🚀
 | [0096-unique-binary-search-trees](https://github.com/ArinDhiman/DSA-in-JAVA/tree/master/0096-unique-binary-search-trees) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ArinDhiman/DSA-in-JAVA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/ArinDhiman/DSA-in-JAVA/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0300-longest-increasing-subsequence](https://github.com/ArinDhiman/DSA-in-JAVA/tree/master/0300-longest-increasing-subsequence) |
 | [0435-non-overlapping-intervals](https://github.com/ArinDhiman/DSA-in-JAVA/tree/master/0435-non-overlapping-intervals) |
 | [0509-fibonacci-number](https://github.com/ArinDhiman/DSA-in-JAVA/tree/master/0509-fibonacci-number) |
 | [0518-coin-change-ii](https://github.com/ArinDhiman/DSA-in-JAVA/tree/master/0518-coin-change-ii) |
@@ -400,6 +402,7 @@ Happy Coding! 🚀
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/ArinDhiman/DSA-in-JAVA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/ArinDhiman/DSA-in-JAVA/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/ArinDhiman/DSA-in-JAVA/tree/master/0268-missing-number) |
+| [0300-longest-increasing-subsequence](https://github.com/ArinDhiman/DSA-in-JAVA/tree/master/0300-longest-increasing-subsequence) |
 ## Trie
 |  |
 | ------- |
@@ -534,6 +537,7 @@ Happy Coding! 🚀
 ## Longest Increasing Subsequence
 |  |
 | ------- |
+| [0300-longest-increasing-subsequence](https://github.com/ArinDhiman/DSA-in-JAVA/tree/master/0300-longest-increasing-subsequence) |
 | [0646-maximum-length-of-pair-chain](https://github.com/ArinDhiman/DSA-in-JAVA/tree/master/0646-maximum-length-of-pair-chain) |
 ## Hungarian Algorithm
 |  |
